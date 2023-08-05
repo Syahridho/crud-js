@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+#container {
+  width: 500px;
+  /* background-color: green; */
+  margin: 0 auto;
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+
+.label {
+  margin: 10px 20px;
+}
+
+.input {
+  width: 90%;
+  margin: 10px 20px;
+
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.btn {
+  padding: 5px;
+  background-color: skyblue;
+  border: 1px solid skyblue;
+  border-radius: 3px;
+  margin: 5px 0 5px 20px;
+}
+
+p {
+  margin: 20px;
+  line-height: 25px;
+}
+.btnEdit {
+  background-color: blue;
+  border: 2px solid blue;
+  padding: 4px 5px;
+  margin-left: 50px;
+  color: white;
+  border-radius: 4px;
+}
+.btnHapus {
+  background-color: red;
+  border: 2px solid red;
+  color: white;
+  padding: 4px 5px;
+  border-radius: 4px;
+}
